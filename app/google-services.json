@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106963435285",
+    "project_id": "sakar-demo",
+    "storage_bucket": "sakar-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106963435285:android:86ab2adf139024a58f731c",
+        "android_client_info": {
+          "package_name": "com.getskn.sakar_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2yMNpM2V0Og-k4Zv8HPLYhF1j_gGlgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
